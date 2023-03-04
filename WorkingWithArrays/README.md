@@ -1,2 +1,2 @@
 # Working with Arrays
-Introducing arrays!
+Introducing arrays and vectors!
